@@ -17,7 +17,7 @@ You will practice the basics of the language while getting familiar with a few s
 5. Implement the `pow(x, y)` function for real base numbers and positive integer exponents! Do not use the `**` operator and any built-in functions! Here you can use `*`.
 6. [EXTRA] Implement the `divmod(x, y)` function for for two integer numbers as inputs! Do not use the `//` and the `%` operators and any built-in functions! It should return a tuple: the first value should be equal to the value of `x // y` and the second equal to the value of `x % y`! Do not use the `//` operator and any built-in functions!
 
-## Requirements
+## Acceptance criteria
 
 - [1.1] MANDATORY! For any two real numbers the less is returned
 - [1.2] MANDATORY! No built-in functions are used
