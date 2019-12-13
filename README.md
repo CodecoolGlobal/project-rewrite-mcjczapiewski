@@ -77,3 +77,9 @@ https://classroom.github.com/a/nlzi2wkS
 ## Background materials
 
 - :exclamation: [Python basics](https://learn.code.cool/progbasics/#/../pages/python/python-basics-variables-conditions-loops-lists-strings-functions-user-interactions-file-handling)
+
+
+## Acceptance review
+
+You will need this only at review time, **after** completing the project.
+[Use this form](https://forms.gle/BRJ1tkm88NstmLfg7) to record the review you provide for your peer.
