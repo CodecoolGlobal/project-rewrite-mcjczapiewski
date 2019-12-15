@@ -76,8 +76,9 @@ https://classroom.github.com/a/nlzi2wkS
 
 ## Background materials
 
-- :exclamation: [Python basics](https://learn.code.cool/progbasics/#/../pages/python/python-basics-variables-conditions-loops-lists-strings-functions-user-interactions-file-handling)
-
+- :exclamation: [Numbers](../pages/python/numbers.md)
+- :exclamation: [Control structures](../pages/python/control-structures.md)
+- :exclamation: [Functions](../pages/python/functions.md)
 
 ## Acceptance review
 
